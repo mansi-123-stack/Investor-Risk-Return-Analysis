@@ -37,5 +37,4 @@
 ​* **Data Cleaning:** Handled null values and standardized naming conventions for investment objectives.
 
 ## Dashboard Preview
-![Dashboard screenshot]
-(Dashboard.png)
+![Dashboard screenshot](Dashboard.png)
